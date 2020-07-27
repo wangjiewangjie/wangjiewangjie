@@ -1,17 +1,12 @@
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-pc-template&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/wangjiewangjie/vue-pc-template)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-h5-template&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/wangjiewangjie/vue-h5-template)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=react-pc-template&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/wangjiewangjie/react-pc-template)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=wangjiewangjie.github.io&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/wangjiewangjie/wangjiewangjie.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-pc-template&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/vue-pc-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-h5-template&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/vue-h5-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=react-pc-template&show_owner=true&title_color=61dafb&icon_color=61dafb)](https://github.com/wangjiewangjie/react-pc-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=wangjiewangjie.github.io&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/wangjiewangjie.github.io)
 
 <!--
-50DA8B  青色
-46BAEB  蓝色
-F8854D 粉红色
-F8CE04  黄色
+4fc08d  vue
+61dafb  react
 -->
 
 
