@@ -1,5 +1,5 @@
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-pc-template&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/vue-pc-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-admin-template&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/vue-admin-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=vue-h5-template&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/vue-h5-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=react-pc-template&show_owner=true&title_color=61dafb&icon_color=61dafb)](https://github.com/wangjiewangjie/react-pc-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wangjiewangjie&repo=wangjiewangjie.github.io&show_owner=true&title_color=4fc08d&icon_color=4fc08d)](https://github.com/wangjiewangjie/wangjiewangjie.github.io)
